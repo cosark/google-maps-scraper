@@ -403,6 +403,12 @@ go build
 
 ---
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Google%20Maps%20Scraper/)
+
+---
+
 ## Features
 
 | Feature | Description |
